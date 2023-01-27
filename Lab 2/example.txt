@@ -1,0 +1,1 @@
+Stemming is a process of converting such words to their root form
