@@ -1,4 +1,4 @@
-# Natural-Language-Processin
+# Natural-Language-Processing
 
 In this repository, you will find a collection of Python files and lab documents that cover various NLP experiments. These experiments are designed to give you a hands-on understanding of the techniques and methods used in natural language processing.
 
