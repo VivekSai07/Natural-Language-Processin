@@ -4,7 +4,16 @@ In this repository, you will find a collection of Python files and lab documents
 
 The Python files in this repository cover a wide range of topics, from text preprocessing, tokenization, word embeddings, bag of words, stemming, lemmatization, POS Tagging and language model. Each file is well-commented and comes with a corresponding lab document that provides a detailed explanation of the code and the concepts covered in the experiment.
 
-To get started, simply download the repository and run the Python files on your local machine. You will need to have a basic understanding of Python and NLP to fully appreciate the experiments.
+To get started, simply download the repository and run the Python files on your local machine. You will need to have a basic understanding of Python and NLP to fully appreciate the experiments. Below are the experiments performed:
+
+- [One hot encoding](https://github.com/VivekSai07/Natural-Language-Processing/blob/main/Lab%201/Lab_1.ipynb)
+- [Bag of words](https://github.com/VivekSai07/Natural-Language-Processing/blob/main/Lab%201/Lab_1.ipynb)
+- [TF-IDF Vectorizer](https://github.com/VivekSai07/Natural-Language-Processing/blob/main/Lab%201/Lab_1.ipynb)
+- [Tokenization](https://github.com/VivekSai07/Natural-Language-Processing/blob/main/Lab%202/Lab_2.ipynb)
+- [Stemming](https://github.com/VivekSai07/Natural-Language-Processing/blob/main/Lab%202/Lab_2.ipynb)
+- [Lemmatization](https://github.com/VivekSai07/Natural-Language-Processing/blob/main/Lab%202/Lab_2.ipynb)
+- [Language Model](https://github.com/VivekSai07/Natural-Language-Processing/blob/main/Lab%203/Lab_3.ipynb)
+- [Neural Language Model](https://github.com/VivekSai07/Natural-Language-Processing/blob/main/Lab%203/Lab_3.ipynb)
 
 I hope that you find the experiments in this repository to be both informative and enjoyable. Happy experimenting!
 
