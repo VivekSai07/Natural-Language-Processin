@@ -14,6 +14,12 @@ To get started, simply download the repository and run the Python files on your 
 - [Lemmatization](https://github.com/VivekSai07/Natural-Language-Processing/blob/main/Lab%202/Lab_2.ipynb)
 - [Language Model](https://github.com/VivekSai07/Natural-Language-Processing/blob/main/Lab%203/Lab_3.ipynb)
 - [Neural Language Model](https://github.com/VivekSai07/Natural-Language-Processing/blob/main/Lab%203/Lab_3.ipynb)
+- [POS Tagging](https://github.com/VivekSai07/Natural-Language-Processing/blob/main/Lab%204/LAB-4.ipynb)
+- [Chunking](https://github.com/VivekSai07/Natural-Language-Processing/blob/main/Lab%204/LAB-4.ipynb)
+- [Named Entity Recognition](https://github.com/VivekSai07/Natural-Language-Processing/blob/main/Lab%204/LAB-4.ipynb)
+- [Word2Vec](https://github.com/VivekSai07/Natural-Language-Processing/blob/main/Lab%205/Lab-5.ipynb)
+- [FastText](https://github.com/VivekSai07/Natural-Language-Processing/blob/main/Lab%205/Lab-5.ipynb)
+- [Glove](https://github.com/VivekSai07/Natural-Language-Processing/blob/main/Lab%205/Lab-5.ipynb)
 
 I hope that you find the experiments in this repository to be both informative and enjoyable. Happy experimenting!
 
